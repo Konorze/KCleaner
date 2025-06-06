@@ -2,6 +2,8 @@
 
 [English](#english) | [Romana](#romana)
 
+[✔️ VirusTotal Scan Result](https://www.virustotal.com/gui/file/7d36ee41b9344c7efec3cec364c36fa14c0b067e301e8c8ef6caf1dd0318fd73)
+
 ---
 
 ## English
