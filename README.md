@@ -51,10 +51,6 @@ It's pretty simple:
 
 It has English and Romanian - use the dropdown to change
 
-### Why I did it
-
-CCleaner was decent but then it became commercial and suspicious, plus I didn't trust it anymore after the things that happened to it. Other cleaning tools were either too complicated or didn't do what I wanted them to do, so I thought why not make my own
-
 ### What it works on
 
 I tested it on Windows 7, 8.1, 10, and 11 - it works on both 32-bit and 64-bit versions
@@ -122,10 +118,6 @@ E destul de simplu:
 ### Limbi
 
 Are engleza si romana - folosesti dropdown-ul ca sa schimbi
-
-### De ce am facut-o
-
-CCleaner era decent dar apoi a devenit comercial si suspect, plus ca nu mai aveam incredere in el dupa chestiile care s-au intamplat cu el. Alte tool-uri de curatare erau fie mult prea complicate fie nu faceau ce voiam eu sa faca, asa ca am zis de ce sa nu-mi fac al meu
 
 ### Pe ce merge
 
