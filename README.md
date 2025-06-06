@@ -141,4 +141,4 @@ Nu e vreun software profesional fancy dar face treaba pentru a mentine Windows-u
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details
