@@ -9,9 +9,7 @@
 Hello!
 I made this app for people who want to optimize their PC/security
 
-### What it does
-
-I put in it pretty much everything I needed to keep my computer running smoothly:
+### What it does:
 
 **Disk Cleanup** - Cleans temp, cache, and other useless files that take up space
 
